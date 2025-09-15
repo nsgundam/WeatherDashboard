@@ -2,6 +2,7 @@
 
 A responsive weather dashboard built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
 It displays real-time weather information for any city using the **OpenWeather API**.
+This is my project for practice Front end skill.
 
 ---
 
